@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kurir">
+        <item>JET</item>
+        <item>J&#38;T</item>
+        <item>TIKI / JNE</item>
+        <item>POS</item>
+        <item>GOSEND</item>
+    </string-array>
+
+    <string-array name="payment">
+        <item>Bank Transfer</item>
+        <item>GoShop</item>
+    </string-array>
+</resources>

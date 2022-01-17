@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">RTH Mobile</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="text_harap_login">~~~----- Harap Login -----~~~</string>
+
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_password_lagi">Password Lagi</string>
+    <string name="text_terimakasih_daftar">Terima kasih telah mendaftar. Untuk penyelesaian registrasi harap konfirmasi Email anda!</string>
+    <string name="text_terimakasih_daftar_pasien">Terima kasih data pasien telah terdaftar! Check selalu info berikutnya di Menu *Status Kesehatan*.</string>
+    <string name="text_terimakasih_order">Terima kasih atas pesanan anda! Produk yg barusan dipesan, akan segera diproses, harap upload bukti pembayaran ke Menu *Status Pembelian*.</string>
+    <string name="text_pendaftaran">Pendaftaran</string>
+    <string name="text_keluhan_terkini">Keluhan Saat ini</string>
+    <string name="text_tuliskan_rinci">Tuliskan dengan rinci...</string>
+    <string name="text_no_ktp">No. KTP</string>
+    <string name="text_selanjutnya">Selanjutnya</string>
+    <string name="text_usia">Usia</string>
+    <string name="text_jenis_kelamin">Jenis Kelamin</string>
+    <string name="text_jenis_pria">Pria</string>
+    <string name="text_jenis_wanita">Wanita</string>
+    <string name="text_status">Status</string>
+    <string name="text_status_single">Single</string>
+    <string name="text_status_bercerai">Bercerai</string>
+    <string name="text_status_menikah">Menikah</string>
+    <string name="text_status_duda">Duda/Janda</string>
+    <string name="text_agama">Agama</string>
+    <string name="text_pendidikan_terakhir">Pendidikan Terakhir</string>
+    <string name="text_pekerjaan">Pekerjaan</string>
+    <string name="text_ttl">Tempat, Tanggal Lahir</string>
+    <string name="text_data_diri">Data Diri Pasien</string>
+    <string name="text_data_kesehatan_umum">Data Kesehatan Umum</string>
+    <string name="text_data_kesehatan_khusus">Data Kesehatan Khusus</string>
+    <string name="text_ya">Ya</string>
+    <string name="text_tidak">Tidak</string>
+    <string name="text_ok">OK</string>
+    <string name="text_soal_merokok">Apakah anda merokok?</string>
+    <string name="text_soal_rawat_inap">Apakah anda pernah menjalani rawat inap di Rumah Sakit?</string>
+    <string name="text_soal_alkohol">Apakah anda pernah menggunakan obat bius / alkohol / narkotik?</string>
+    <string name="text_soal_vonis">Apakah anda pernah divonis memiliki satu penyakit diantara ini : TBC / Kencing Manis / Ginjal / Jantung / Stroke / Kanker / Syaraf?</string>
+    <string name="text_soal_anjuran">Apakah anda kesini dengan anjuran dokter / therapist lain?</string>
+
+    <string name="text_soal_adat_syirik">Apakah keluarga / anda terlibat dalam adat syirik : puasa mutih / mandi keris / ritual serupa?</string>
+    <string name="text_soal_tenaga_dalam">Apakah keluarga / anda pernah mengikuti perguruan tenaga dalam / dzikir khusus dalam 3 tahun terakhir?</string>
+    <string name="text_soal_mimpi_buruk">Apakah keluarga / anda mengalami mimpi buruk yang berturut-turut?</string>
+    <string name="text_soal_datangi_dukun">Apakah keluarga / anda pernah mendatangi paranormal / dukun / guru khusus?</string>
+    <string name="text_soal_penampakan">Apakah keluarga / anda pernah melihat penampakan ghaib disekitar tempat tertentu?</string>
+
+    <string name="text_pendaftaran_pasien">Pendaftaran Pasien</string>
+    <string name="text_pendaftaran_pasien_notes">Anda boleh mendaftarkan keluarga anda sebagai pasien.</string>
+
+    <string name="text_status_kesehatan_notes">Pilih salah satu nama untuk melihat detail status kesehatan pasien.</string>
+    <string name="text_pencarian">Pencarian</string>
+    <string name="text_hapus_data">Hapus data terpilih.</string>
+
+    <string name="text_daftar_produk">Daftar Produk</string>
+    <string name="text_quantity">Quantity</string>
+
+    <string name="text_nama_produk">Nama Produk</string>
+    <string name="text_harga_produk">Harga Produk</string>
+    <string name="text_tambah_produk">Tambah ke dalam keranjang</string>
+
+    <string name="text_mycart">Keranjang Saya</string>
+    <string name="text_checkout">Checkout</string>
+
+    <string name="text_next">Lanjut</string>
+    <string name="text_subtotal_harga">Subtotal : Rp.</string>
+    <string name="text_ordernow">Pesan Sekarang!</string>
+
+    <string name="text_subtotal_produk">Sub Total Produk :</string>
+    <string name="text_subtotal_kurir">Sub Total Kurir :</string>
+    <string name="text_total_pembayaran">Total Pembayaran :</string>
+
+    <string name="text_status_kesehatan">Status Kesehatan</string>
+    <string name="text_status_pembelian">Status Pembelian</string>
+
+    <string name="text_beli_produk">Beli Produk</string>
+    <string name="text_schedule">Schedule</string>
+    <string name="text_login">Login</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_bantuan">Bantuan</string>
+    <string name="text_akun">Akun</string>
+    <string name="text_nama_lengkap">Nama Lengkap</string>
+    <string name="text_alamat">Alamat</string>
+    <string name="text_alamat_penerima">Alamat Penerima</string>
+    <string name="text_kurir">Kurir Pengirim</string>
+    <string name="text_metode_pembayaran">Metode Pembayaran</string>
+
+    <string name="text_pesan">Pesan</string>
+    <string name="text_pesan_catatan">Tuliskan catatan lain yang ingin disampaikan.</string>
+    <string name="text_estimasi_biaya">Estimasi Biaya: Rp.</string>
+    <string name="text_kontak">Kontak</string>
+    <string name="text_save">Save</string>
+    <string name="text_usernames">Username</string>
+    <string name="text_register">Tidak punya akun? <font color='#0000ff'>Daftar sekarang!</font></string>
+    <string name="text_error_email">Email ini tidak terdaftar!</string>
+    <string name="text_error_password">Password ini salah!</string>
+
+</resources>
